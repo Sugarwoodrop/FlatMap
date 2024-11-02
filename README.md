@@ -10,7 +10,6 @@
 
 class FlatMap {
 public:
-
     // стандартный конструктор
     FlatMap();
 
